@@ -86,6 +86,6 @@ gantt
 ```mermaid
 pie
     title O Cientista de Dados Odeia Gráfico de Pizza?
-    "Sim" : 99
-    "Nao" : 1
+    "Sim" : 96
+    "Nao" : 4
 ```
