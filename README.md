@@ -2,6 +2,8 @@
 
 Testing some Mermaid code and functionality.
 
+Article: [GitHub e Mermaid: uma imagem vale mais que mil palavras](https://medium.com/@carodias/github-e-mermaid-uma-imagem-vale-mais-que-mil-palavras-7cca09a205de)
+
 ## Flowchart
 
 ```mermaid
